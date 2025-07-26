@@ -1,5 +1,5 @@
 
-# SNCF Traffic Prediction : Prédiction du nombre de validations en gare SNCF-Transilien
+# Prédiction du nombre de validations en gare SNCF-Transilien
 
 Projet réalisé dans le cadre d’un **data challenge académique** en 2024.
 
