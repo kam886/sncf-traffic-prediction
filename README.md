@@ -25,6 +25,8 @@ Ce projet vise à améliorer la performance du service en prévoyant l'affluence
   * `ferie` : 1 si jour férié
   * `vacances` : 1 si vacances scolaires
 
+
+**Remarque :** Les données peuvent être téléchargées [https://challengedata.ens.fr/].
 ---
 
 ## Technologies et librairies utilisées
